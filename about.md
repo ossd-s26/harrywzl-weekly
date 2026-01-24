@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is **Harry Wu**. I grew up in Long Island, New York, and I'm currently a junior at CAS.
 
 ### More Information
 
