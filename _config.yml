@@ -23,6 +23,8 @@ avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->
+# show future posts if set to true
+future: true
 
 # CUSTOMIZE
 #
