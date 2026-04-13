@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Mar 13  | [open_street_map](https://www.openstreetmap.org/changeset/179831700#map=19/40.773855/-73.527658)    |   openstreetmap  |  I added a no stopping anytime sign   |
 | Mar 22  | [Wikipedia](http://en.wikipedia.org/w/index.php?title=Pandas_(software)&diff=prev&oldid=1344877827) |   Wikipedia      |  Grammar correction + Missing closing quotation mark.  |
 | Mar 25  | [fzf](https://github.com/junegunn/fzf/pull/4743)    |   doc  |  Fix duplicate table rows and minor grammar/formatting in fzf.txt    |
+| Apr 13  | [jj](https://github.com/jj-vcs/jj/pull/9312)    |   cli/doc  |  doc: adjusted JJ-INSTRUCTIONS for split    |
